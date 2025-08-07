@@ -1,0 +1,15 @@
+D:\00_TestCS\LearnCSharp\TestOne\bin\Debug\net8.0\TestOne.exe
+D:\00_TestCS\LearnCSharp\TestOne\bin\Debug\net8.0\TestOne.deps.json
+D:\00_TestCS\LearnCSharp\TestOne\bin\Debug\net8.0\TestOne.runtimeconfig.json
+D:\00_TestCS\LearnCSharp\TestOne\bin\Debug\net8.0\TestOne.dll
+D:\00_TestCS\LearnCSharp\TestOne\bin\Debug\net8.0\TestOne.pdb
+D:\00_TestCS\LearnCSharp\TestOne\obj\Debug\net8.0\TestOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_TestCS\LearnCSharp\TestOne\obj\Debug\net8.0\TestOne.AssemblyInfoInputs.cache
+D:\00_TestCS\LearnCSharp\TestOne\obj\Debug\net8.0\TestOne.AssemblyInfo.cs
+D:\00_TestCS\LearnCSharp\TestOne\obj\Debug\net8.0\TestOne.csproj.CoreCompileInputs.cache
+D:\00_TestCS\LearnCSharp\TestOne\obj\Debug\net8.0\TestOne.sourcelink.json
+D:\00_TestCS\LearnCSharp\TestOne\obj\Debug\net8.0\TestOne.dll
+D:\00_TestCS\LearnCSharp\TestOne\obj\Debug\net8.0\refint\TestOne.dll
+D:\00_TestCS\LearnCSharp\TestOne\obj\Debug\net8.0\TestOne.pdb
+D:\00_TestCS\LearnCSharp\TestOne\obj\Debug\net8.0\TestOne.genruntimeconfig.cache
+D:\00_TestCS\LearnCSharp\TestOne\obj\Debug\net8.0\ref\TestOne.dll
